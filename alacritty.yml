@@ -1,0 +1,56 @@
+colors:
+  primary:
+    background: "#191c25"
+    foreground: "#b5b4c9"
+
+  normal:
+    black: "#2e313d"
+    red: "#cf8164"
+    green: "#76a065"
+    yellow: "#ab924c"
+    blue: "#8296b0"
+    magenta: "#a18daf"
+    cyan: "#659ea2"
+    white: "#b5b4c9"
+
+  bright:
+    black: "#5b5f71"
+    red: "#f39f7c"
+    green: "#92c47e"
+    yellow: "#d2b45f"
+    blue: "#a0b9d8"
+    magenta: "#c6aed7"
+    cyan: "#7dc2c7"
+    white: "#f0edfe"
+
+backgroundopacity: 0.95
+
+font:
+  normal:
+    family: "Courier New"
+    style: Regular
+  bold:
+    family: "Courier New"
+    style: Bold
+  italic:
+    family: "Courier New"
+    style: Italic
+  bold_italic:
+    family: "Courier New"
+    style: Bold Italic
+
+  size: 9.0
+
+window:
+  padding:
+    x: 2
+    y: 2
+
+scrolling:
+  history: 9999
+
+  multiplier: 10
+
+draw_bold_text_with_bright_colors: true
+
+live_config_reload: true
